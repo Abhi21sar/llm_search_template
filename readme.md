@@ -38,7 +38,6 @@ This is my completed version of a **Retrieval-Augmented Generation (RAG)** syste
 - LLM-based answer generation via API
 - Environment variable support for secure API key management
 
-> 💡 Bonus potential: Add memory with tools like Langchain to make the chatbot conversational.
 
 ---
 
@@ -57,14 +56,12 @@ This is my completed version of a **Retrieval-Augmented Generation (RAG)** syste
 
 ### 1. Clone the Repo
 
-```bash
 git clone https://github.com/Abhi21sar/llm-based-rag-system.git
 cd llm-based-rag-system
 ### 2. Create a Virtual Environment
 
 Using `venv`:
 
-```bash
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
 
