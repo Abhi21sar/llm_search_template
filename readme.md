@@ -89,9 +89,9 @@ streamlit run app.py
 Visit http://localhost:8501 in your browser and start asking questions!
 
 ### 📁 Project Structure
-.
-├── flask_app/         # Flask backend code
-├── streamlit_app/     # Streamlit UI
-├── .env               # API keys (excluded from version control)
-├── requirements.txt   # Python dependencies
-└── README.md          # Project documentation
+
+├── flask_app/         
+├── streamlit_app/      
+├── .env                
+├── requirements.txt     
+└── README.md         
